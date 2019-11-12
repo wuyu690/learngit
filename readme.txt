@@ -5,3 +5,4 @@ asdb
 three 3
 git -> stage -> master 
 GIT tracks changes
+GIT tracks changes of files
